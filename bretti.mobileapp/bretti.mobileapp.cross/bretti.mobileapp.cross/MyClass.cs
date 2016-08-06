@@ -6,6 +6,7 @@ namespace bretti.mobileapp.cross
 	{
 		public MyClass ()
 		{
+
 		}
 	}
 }
