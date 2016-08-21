@@ -1,5 +1,7 @@
 ﻿using System;
 
+
+
 namespace bretti.mobileapp.cross
 {
 	public class MyClass
@@ -8,6 +10,7 @@ namespace bretti.mobileapp.cross
 		{
                //Test1
                //Test2
+
 		}
 	}
 }

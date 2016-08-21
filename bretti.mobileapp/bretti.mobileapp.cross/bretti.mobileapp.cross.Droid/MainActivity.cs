@@ -7,6 +7,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
+
 namespace bretti.mobileapp.cross.Droid
 {
 	[Activity (Label = "bretti.mobileapp.cross.Droid", MainLauncher = true, Icon = "@drawable/icon")]
