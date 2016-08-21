@@ -1,0 +1,4 @@
+bretti.mobileapp.cross.Droid.MainActivity, bretti.mobileapp.cross.Droid;md5302a47c2e505c8ced1d4587f1513c185.MainActivity
+bretti.mobileapp.cross.Droid.MainActivity, bretti.mobileapp.cross.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5302a47c2e505c8ced1d4587f1513c185.MainActivity
+bretti.mobileapp.cross.Droid.MainActivity;md5302a47c2e505c8ced1d4587f1513c185.MainActivity
+bretti.mobileapp.cross.droid.MainActivity;md5302a47c2e505c8ced1d4587f1513c185.MainActivity

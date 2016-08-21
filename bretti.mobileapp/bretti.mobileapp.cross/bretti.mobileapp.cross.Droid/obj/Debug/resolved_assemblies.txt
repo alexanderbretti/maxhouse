@@ -1,0 +1,8 @@
+E:\projects\maxhouse\bretti.mobileapp\bretti.mobileapp.cross\bretti.mobileapp.cross.Droid\obj\Debug\assemblies\bretti.mobileapp.cross.Droid.dll
+E:\projects\maxhouse\bretti.mobileapp\bretti.mobileapp.cross\bretti.mobileapp.cross.Droid\obj\Debug\assemblies\Mono.Android.dll
+E:\projects\maxhouse\bretti.mobileapp\bretti.mobileapp.cross\bretti.mobileapp.cross.Droid\obj\Debug\assemblies\mscorlib.dll
+E:\projects\maxhouse\bretti.mobileapp\bretti.mobileapp.cross\bretti.mobileapp.cross.Droid\obj\Debug\assemblies\System.Core.dll
+E:\projects\maxhouse\bretti.mobileapp\bretti.mobileapp.cross\bretti.mobileapp.cross.Droid\obj\Debug\assemblies\System.dll
+E:\projects\maxhouse\bretti.mobileapp\bretti.mobileapp.cross\bretti.mobileapp.cross.Droid\obj\Debug\assemblies\System.Xml.dll
+E:\projects\maxhouse\bretti.mobileapp\bretti.mobileapp.cross\bretti.mobileapp.cross.Droid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\projects\maxhouse\bretti.mobileapp\bretti.mobileapp.cross\bretti.mobileapp.cross.Droid\obj\Debug\assemblies\System.ServiceModel.Internals.dll
