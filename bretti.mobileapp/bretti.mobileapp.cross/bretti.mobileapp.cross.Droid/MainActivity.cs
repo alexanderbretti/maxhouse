@@ -14,6 +14,7 @@ namespace bretti.mobileapp.cross.Droid
 	public class MainActivity : Activity
 	{
 		int count = 1;
+        
 
 		protected override void OnCreate (Bundle bundle)
 		{
@@ -25,9 +26,11 @@ namespace bretti.mobileapp.cross.Droid
 			// Get our button from the layout resource,
 			// and attach an event to it
 			Button button = FindViewById<Button> (Resource.Id.myButton);
-			
+
+            var strTest = "testing";
+
 			button.Click += delegate {
-				button.Text = string.Format ("{0} clicks!", count++);
+				button.Text = string.Format ("{0} clicks! {1}", count++, strTest);
 			};
 		}
 	}
